@@ -10,6 +10,8 @@ namespace ProjectForGit
     {
         static void Main(string[] args)
         {
+            //This change for test purpose
+            Console.WriteLine("Hello IRON");
         }
     }
 }
