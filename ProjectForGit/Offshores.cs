@@ -8,5 +8,6 @@ namespace ProjectForGit
 {
     internal class Offshores
     {
+        //Change for subtask 5
     }
 }
