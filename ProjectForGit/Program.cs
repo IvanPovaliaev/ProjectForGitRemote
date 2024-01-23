@@ -16,6 +16,8 @@ namespace ProjectForGit
             //Change for subtask 3
             //Change for subtask 4
             //Change for subtask 5
+
+            //New change for task 7
         }
     }
 }
