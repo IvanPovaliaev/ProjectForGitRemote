@@ -13,7 +13,7 @@ namespace ProjectForGit
             
             Console.WriteLine("Hello IRON");
             //Change for subtask9
-            
+            //Сделал задачу 10
         }
     }
 }
