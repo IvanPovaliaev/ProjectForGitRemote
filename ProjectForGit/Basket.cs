@@ -8,8 +8,10 @@ namespace ProjectForGit
 {
     internal class Basket
     {
-        public Basket()
+        public User user { get; }
+        public Basket(User user)
         {
+            this.user = user;
         }
     }
 }
