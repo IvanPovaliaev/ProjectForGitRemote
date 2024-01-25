@@ -8,9 +8,10 @@ namespace ProjectForGit
 {
     internal class User
     {
-        public User()
+        private int id { get; }
+        public User(int id)
         {
-            
+            this.id = id;
         }
     }
 }
