@@ -8,5 +8,8 @@ namespace ProjectForGit
 {
     internal class Basket
     {
+        public Basket()
+        {
+        }
     }
 }
