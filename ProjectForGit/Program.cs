@@ -15,6 +15,8 @@ namespace ProjectForGit
             //Change for subtask9
             //Changes for task30
 
+            //Changes for task32
+
             //Changes for task33
         }
     }
