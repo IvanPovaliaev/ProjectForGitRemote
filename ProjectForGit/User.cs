@@ -8,6 +8,7 @@ namespace ProjectForGit
 {
     internal class User
     {
+        protected string name;
         public User()
         {
             
