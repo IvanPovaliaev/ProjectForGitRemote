@@ -9,5 +9,6 @@ namespace ProjectForGit
     internal class Book
     {
         public int MyProperty { get; set; }
+        //Add ctor
     }
 }
